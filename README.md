@@ -1,4 +1,7 @@
-# ilex-coding-challenge
+# SpringBoot Demo Application
+
+Small demo app to add products and place orders.
+
 
 ### Steps to run the application
 
