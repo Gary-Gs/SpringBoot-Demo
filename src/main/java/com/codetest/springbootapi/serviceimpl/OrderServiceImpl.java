@@ -79,4 +79,11 @@ public class OrderServiceImpl implements OrderService {
 
         return orderDtoList;
     }
+
+    @Override
+    public String Test() {
+        System.out.println("test");
+        System.out.println("test2");
+        return null;
+    }
 }
