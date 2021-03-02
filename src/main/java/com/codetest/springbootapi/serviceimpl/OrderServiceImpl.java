@@ -76,7 +76,7 @@ public class OrderServiceImpl implements OrderService {
             o.setProductOrders(productOrderDtoList);
             orderDtoList.add(o);
         });
-        System.out.println("te");
+
         return orderDtoList;
     }
 }
