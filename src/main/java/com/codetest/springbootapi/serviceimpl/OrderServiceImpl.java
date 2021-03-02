@@ -82,6 +82,7 @@ public class OrderServiceImpl implements OrderService {
 
     @Override
     public String Test() {
+        System.out.println("test");
         return null;
     }
 }
