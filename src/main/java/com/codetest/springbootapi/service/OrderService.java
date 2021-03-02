@@ -9,6 +9,4 @@ public interface OrderService {
     String PlaceOrder(OrderDto orderDto);
 
     List<OrderDto> ListOrders(Long userId, Instant fromDate, Instant toDate);
-
-    String Test();
 }
