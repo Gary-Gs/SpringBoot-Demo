@@ -7,7 +7,7 @@ import com.codetest.springbootapi.entity.Product;
 import com.codetest.springbootapi.entity.ProductOrder;
 import com.codetest.springbootapi.repository.OrderRepository;
 import com.codetest.springbootapi.repository.ProductRepository;
-import com.codetest.springbootapi.utils.Constants;
+import com.codetest.springbootapi.constant.Constants;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

@@ -1,4 +1,4 @@
-package com.codetest.springbootapi.utils;
+package com.codetest.springbootapi.constant;
 
 public class Constants {
 

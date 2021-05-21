@@ -1,6 +1,6 @@
 package com.codetest.springbootapi.dto;
 
-import com.codetest.springbootapi.utils.Constants;
+import com.codetest.springbootapi.constant.Constants;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 

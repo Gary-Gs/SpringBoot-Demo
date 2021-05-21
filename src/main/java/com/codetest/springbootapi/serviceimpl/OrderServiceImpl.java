@@ -8,7 +8,7 @@ import com.codetest.springbootapi.entity.ProductOrder;
 import com.codetest.springbootapi.repository.OrderRepository;
 import com.codetest.springbootapi.repository.ProductRepository;
 import com.codetest.springbootapi.service.OrderService;
-import com.codetest.springbootapi.utils.Constants;
+import com.codetest.springbootapi.constant.Constants;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
